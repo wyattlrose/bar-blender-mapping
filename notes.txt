@@ -1,0 +1,15 @@
+min height for sea lab: 30
+min sea height 15 for large ships and subs 
+min sea height 6 for smallest ships
+
+max t1 unit water height: 24
+max tick water height: 5
+
+1537*1537 = 2,362,369
+one tile = 512x512
+
+12288*12288 = 150,994,944
+
+24x24 unit stats:
+height = 1000
+width = 12288
