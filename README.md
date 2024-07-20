@@ -14,3 +14,5 @@ colder tones at sea level.
 * Orange/Deep Purple: Only Bots can traverse
 * Red: Spider bots only.
 * Very Dark Purple: Only sea units can traverse.
+
+### Texture
