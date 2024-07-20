@@ -1,7 +1,9 @@
 ## Materials
 
 ### Height
-Produces a heightmap ready for export.
+A heightmap texture that's export ready.
+![height.png](/Screenshots/height.png)
+
 ### Slope
 ![slope.png](/Screenshots/slope.png)
 Visual guide indicating what units can/cant traverse above and below sea. Coloring transitions from warmer tones to
